@@ -2,7 +2,6 @@
 **sikoh/sikoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1 align="centre">👋 Hi there! </h1>
-<img align="right" alt="Artificial Intelligence" src="https://media.giphy.com/media/Riu2QxvmfrvzRUs6Rv/giphy.gif" width="300"/> 
 - 👀 I’m passionate about Data Science, Machine Learning, and Artificial Intelligence, especially when it comes to using them to tackle real-world challenges and make a positive impact on people's lives.<br>
 - 🌱 I'm continuously sharpening my technical and soft skills to deliver meaningful results and foster innovation.<br>
 - 🔭 My current focus is on revolutionizing healthcare through the application of machine learning techniques. I'm dedicated to enhancing patient outcomes and optimizing healthcare delivery systems.<br>
