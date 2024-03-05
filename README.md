@@ -6,7 +6,7 @@
 - 👀 I’m passionate about Data Science, Machine Learning, and Artificial Intelligence, especially when it comes to using them to tackle real-world challenges and make a positive impact on people's lives.<br>
 - 🌱 I'm continuously sharpening my technical and soft skills to deliver meaningful results and foster innovation.<br>
 - 🔭 My current focus is on revolutionizing healthcare through the application of machine learning techniques. I'm dedicated to enhancing patient outcomes and optimizing healthcare delivery systems.<br>
-- 📫 You can reach out via email at <a href="mailto:silvanakoharian@gmail.com">silvanakoharian@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/silvana-koharian/">LinkedIn</a><br>
+- 📫 You can reach out via email at <a href="mailto:silvanakoharian@gmail.com">silvanakoharian@gmail.com</a> or connect on <a href="https://www.linkedin.com/in/silvana-koharian/">LinkedIn</a><br>
 - ⚡ In my free time, I love diving into self-improvement books and immersing myself in nature. It's where I find inspiration for my projects and recharge my creativity.<br>
 
 ### Languages and Tools:
